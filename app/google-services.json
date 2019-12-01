@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404463089787",
+    "firebase_url": "https://cabapp-ca51c.firebaseio.com",
+    "project_id": "cabapp-ca51c",
+    "storage_bucket": "cabapp-ca51c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404463089787:android:7f33b69808df5da6",
+        "android_client_info": {
+          "package_name": "rs.ac.singidunum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404463089787-ksubd80vpbi8k9j1otc24o305hv3eiqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9psuAG2oB55SiU1zFx4Hz7Ebghu1k3h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404463089787-ksubd80vpbi8k9j1otc24o305hv3eiqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
